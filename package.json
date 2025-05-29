@@ -1,0 +1,23 @@
+{
+  "name": "devops-git-project",
+  "version": "1.0.0",
+  "description": "A simple Node.js app using Express, demonstrating Git best practices with branching, commits, and pull requests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suryanarayanang1/devops-git-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suryanarayanang1/devops-git-project/issues"
+  },
+  "homepage": "https://github.com/suryanarayanang1/devops-git-project#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
